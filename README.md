@@ -14,7 +14,7 @@ I am a software developer based in France. I primarily work in TypeScript, Pytho
 <h2 align="center">My Journey</h2>
 <p align="center">
 After 3 years of learning programming at Ecole 42 in Paris, and 2 internships of 6 months in Web development, I was able to use my knowledge to complete various missions in a first company. 
-Today, after having taken the time to develop my projects related to video game development, I wish to resume programming within a solid structure with projects to deepen my skills and to be able to progress and evolve together.
+Having taken the time to develop my projects related to video game development, I wish to resume programming within a solid structure with projects to deepen my skills and to be able to progress and evolve together.
 </p>
 <hr />
 <h2 align="center">Projects</h2>
